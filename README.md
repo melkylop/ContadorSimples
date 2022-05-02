@@ -1,2 +1,2 @@
 # ContadorSimples
-Treinando JavaScript
+Treinando
